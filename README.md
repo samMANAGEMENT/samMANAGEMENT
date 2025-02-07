@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://aristi.dev">Samuel Pineda</a> 👋</h1>
+</div>
 
-<!--
-**samMANAGEMENT/samMANAGEMENT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi
 
-Here are some ideas to get you started:
+- 🥎 Tenista por Hobbie 🥎 
+- 📲 Web Developer.
+- 🎥 Amante del VERDADERO cine.
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,postgres,express,figma,firebase,github,java,js,materialui,nginx,nodejs,mysql,nextjs,nodejs,postman,vue,react,angular,tailwind,vuetify,ts,&perline=14" />
+  </a>
+</p>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=samMANAGEMENT&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samMANAGEMENT&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
